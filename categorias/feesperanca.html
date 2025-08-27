@@ -11,9 +11,12 @@
     .navbar-brand, .navbar-nav .nav-link {color: white !important;font-weight: 600;}
     .navbar-nav .nav-link:hover {color: #bbdefb !important;}
     .verse-box {background: white;padding: 30px;border-radius: 16px;margin: 20px auto;box-shadow: 0 6px 16px rgba(0,0,0,0.15);max-width: 900px;}
-    .verse-text {font-size: 1.6rem;font-weight: 600;color: #0d47a1;margin-bottom: 5px;}
-    .verse-ref {font-size: 0.9rem;color: #000;margin-bottom: 10px;}
-    .verse-exp {font-size: 1rem;color: #444;}
+
+    /* Estilos desejados */
+    .verse-text {font-size: 1.9rem; font-weight: 700; color: #0d47a1; line-height: 1.35; margin-bottom: 6px;}
+    .verse-ref {font-size: 0.95rem; color: #000; font-weight: 700; margin-bottom: 10px;}
+    .verse-exp {font-size: 1rem; color: #444;}
+
     footer {background: #1976d2;color: white;padding: 20px;margin-top: 40px;}
   </style>
 </head>
@@ -50,6 +53,17 @@
 </footer>
 
 <script>
+function stripHtml(input) {
+  return (input || '').replace(/<[^>]*>/g, '').trim();
+}
+
+function removeEmbeddedReference(text, reference) {
+  if (!text || !reference) return text || '';
+  const escaped = reference.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(escaped, 'gi');
+  return text.replace(re, '').replace(/[\s\-–—,:;]+$/g, '').trim();
+}
+
 async function loadCategory(category) {
   try {
     const response = await fetch("../data/verses.json");
@@ -57,11 +71,14 @@ async function loadCategory(category) {
 
     const filtered = verses.filter(v => v.categories.includes(category));
     let html = "";
+
     filtered.forEach(v => {
+      const cleanText = removeEmbeddedReference(stripHtml(v.text), v.reference);
+
       html += `
         <div class="verse-box">
-          <div class="verse-text">${v.text}</div>
-          <div class="verse-ref">${v.reference}</div>
+          <div class="verse-text">${cleanText}</div>
+          <div class="verse-ref"><strong>${v.reference}</strong></div>
           <p class="verse-exp">${v.explanation}</p>
         </div>`;
     });
