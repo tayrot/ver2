@@ -1,0 +1,4849 @@
+[
+  {
+    "id": 1,
+    "day": "001",
+    "text": "As minhas ovelhas ouvem a minha voz, e eu as conheço, e elas me seguem",
+    "reference": "João 10:27",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 2,
+    "day": "002",
+    "text": "Então disse Deus a Noé: O fim de toda carne é chegado perante mim",
+    "reference": "eis que os destruirei juntamente com a terra. Gênesis 6:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 3,
+    "day": "003",
+    "text": "Então Jesus tornou a falar-lhes, dizendo: Eu sou a luz do mundo",
+    "reference": "quem me segue de modo algum andará em trevas, mas terá a luz da vida. João 8:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 4,
+    "day": "004",
+    "text": "Porque, assim como o relâmpago sai do oriente e se mostra até o ocidente, assim será também a vinda do filho do homem. Mateus 24:27",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 5,
+    "day": "005",
+    "text": "“… porque numa hora em que não penseis, virá o Filho do homem.” Mateus 24:44",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 6,
+    "day": "006",
+    "text": "Eis que venho como ladrão. Bem-aventurado aquele que vigia, e guarda as suas vestes, para que não ande nu, e não se veja a sua nudez. Apocalipse 16:15",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 7,
+    "day": "007",
+    "text": "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei. Mateus 11:28",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 8,
+    "day": "008",
+    "text": "Nem todo o que me diz: Senhor, Senhor! entrará no reino dos céus, mas aquele que faz a vontade de meu Pai, que está nos céus. Mateus 7:21",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 9,
+    "day": "009",
+    "text": "O meu arco tenho posto nas nuvens, e ele será por sinal de haver um pacto entre mim e a terra. Gênesis 9:13",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 10,
+    "day": "010",
+    "text": "Eis que vêm os dias, diz Deus Jeová, em que enviarei fome sobre a terra",
+    "reference": "não fome de pão, nem sede de água, mas de ouvir as palavras de Jeová. Amós 8:11",
+    "categories": [
+      "Alimento",
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 11,
+    "day": "011",
+    "text": "“Não temas, porque eu sou contigo",
+    "reference": "eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.” Isaías 41:10",
+    "categories": [
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "justica"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 12,
+    "day": "012",
+    "text": "Não se vendem cinco passarinhos por dois asses? E nenhum deles está esquecido diante de Deus. Mas até os cabelos da vossa cabeça estão todos contados. Não temais, pois mais valeis vós do que muitos passarinhos. Lucas 12:6-7",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 13,
+    "day": "013",
+    "text": "Não ameis o mundo, nem o que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele. 1 João 2:15",
+    "reference": "",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 14,
+    "day": "014",
+    "text": "O homem iracundo suscita contendas",
+    "reference": "mas o longânimo apazigua a luta. Provérbios 15:18",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 15,
+    "day": "015",
+    "text": "Se é de Deus, não podereis derrotá-los",
+    "reference": "para que não sejais, porventura, achados até combatendo contra Deus. Atos 5:39",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 16,
+    "day": "016",
+    "text": "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós. Mateus 6:14",
+    "reference": "",
+    "categories": [
+      "Perdão"
+    ],
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "Ensina a perdoar, assim como Deus perdoa, trazendo leveza e cura ao coração."
+  },
+  {
+    "id": 17,
+    "day": "017",
+    "text": "Porque já é tempo que comece o julgamento pela casa de Deus. 1 Pedro 4:17",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 18,
+    "day": "018",
+    "text": "“Os lábios mentirosos são abomináveis ao Senhor",
+    "reference": "mas os que praticam a verdade são o seu deleite.” Provérbios 12:22",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 19,
+    "day": "019",
+    "text": "“A prosperidade dos loucos os destruirá.” Provérbios 1:32",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 20,
+    "day": "020",
+    "text": "“Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus.” Mateus 5:9",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 21,
+    "day": "021",
+    "text": "“E o verbo se fez carne, e habitou entre nós, cheio de graça e de verdade",
+    "reference": "e vimos a sua glória, como a glória do unigênito do Pai.” João 1:14",
+    "categories": [
+      "Graça"
+    ],
+    "categorySlugs": [
+      "graca"
+    ],
+    "explanation": "Explica que a salvação é um presente gratuito de Deus, dado por amor e não por merecimento."
+  },
+  {
+    "id": 22,
+    "day": "022",
+    "text": "“… conhecereis a verdade, e a verdade vos libertará” João 8:32",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 23,
+    "day": "023",
+    "text": "“Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos atento à sua súplica",
+    "reference": "mas o rosto do Senhor é contra os que fazem o mal.” 1 Pedro 3:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 24,
+    "day": "024",
+    "text": "“… tendo o vosso procedimento correto entre os gentios, para que naquilo em que falam mal de vós, como de malfeitores, observando as vossas boas obras, glorifiquem a Deus no dia da visitação.” 1 Pedro 2:12",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 25,
+    "day": "025",
+    "text": "“Declarou-lhes Jesus. Eu sou o pão da vida",
+    "reference": "aquele que vem a mim, de modo algum terá fome, e quem crê em mim jamais tará sede.” João 6:35",
+    "categories": [
+      "Alimento"
+    ],
+    "categorySlugs": [
+      "alimento"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 26,
+    "day": "026",
+    "text": "“Se vós permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será feito.” João 15:7",
+    "reference": "",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 27,
+    "day": "027",
+    "text": "O Senhor Jesus disse: “Eu, que sou a luz, vim ao mundo, para que todo aquele que crê em mim não permaneça nas trevas.” João 12:46",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 28,
+    "day": "028",
+    "text": "“Pelo que os ímpios não subsistirão no juízo, nem os pecadores na congregação dos justos.” Salmos 1:5",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 29,
+    "day": "029",
+    "text": "Mas também, se padecerdes por amor da justiça, bem-aventurados sereis",
+    "reference": "e não temais as suas ameaças, nem vos turbeis. 1 Pedro 3:14",
+    "categories": [
+      "Amor",
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "amor",
+      "justica"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 30,
+    "day": "030",
+    "text": "“No amor não há medo antes o perfeito amor lança fora o medo",
+    "reference": "e quem tem medo não está aperfeiçoado no amor.” 1 João 4:18",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 31,
+    "day": "031",
+    "text": "“O receio do homem lhe arma laços",
+    "reference": "mas o que confia no Senhor está seguro.” Provérbios 29:25",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 32,
+    "day": "032",
+    "text": "Como o Pai me amou, assim também eu vos amei",
+    "reference": "permanecei no meu amor. João 15:9",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 33,
+    "day": "033",
+    "text": "Respondeu-lhe Simão Pedro: Tu és o Cristo, o Filho do Deus vivo Mateus 16:16",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 34,
+    "day": "034",
+    "text": "Um novo mandamento vos dou: que vos ameis uns aos outros",
+    "reference": "assim como eu vos amei a vós, que também vós vos ameis uns aos outros. João 13:34",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 35,
+    "day": "035",
+    "text": "Não julgueis, para que não sejais julgados Mateus 7:1",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 36,
+    "day": "036",
+    "text": "E eis que Jesus lhes veio ao encontro, dizendo: Salve. E elas, aproximando-se, abraçaram-lhe os pés, e o adoraram Mateus 28:9",
+    "reference": "",
+    "categories": [
+      "Oração",
+      "Adoração"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "adoracao"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 37,
+    "day": "037",
+    "text": "Tomou, pois, Jeová Deus o homem, e o pôs no jardim do Édem para o lavrar e guardar. Gênesis 2:15",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 38,
+    "day": "038",
+    "text": "Mas à meia-noite ouviu-se um grito: Eis o noivo! saí-lhe ao encontro! Mateus 25:6",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 39,
+    "day": "039",
+    "text": "Deus é Espírito, e é necessário que os que o adoram o adorem em espírito e em verdade. João 4:24",
+    "reference": "",
+    "categories": [
+      "Espírito Santo",
+      "Adoração"
+    ],
+    "categorySlugs": [
+      "espirito-santo",
+      "adoracao"
+    ],
+    "explanation": "Convida a adorar a Deus de coração sincero, reconhecendo quem Ele é."
+  },
+  {
+    "id": 40,
+    "day": "040",
+    "text": "Disse-lhe Jesus: Porque me viste, creste? Bem-aventurados os que não viram e creram. João 20:29",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 41,
+    "day": "041",
+    "text": "O Senhor dará força ao seu povo",
+    "reference": "o Senhor abençoará o seu povo com paz. Salmos 29:11",
+    "categories": [
+      "Benção",
+      "Paz"
+    ],
+    "categorySlugs": [
+      "bencao",
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 42,
+    "day": "042",
+    "text": "Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros. João 13:35",
+    "reference": "",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 43,
+    "day": "043",
+    "text": "Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas. Provérbios 3:6",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 44,
+    "day": "044",
+    "text": "E o julgamento é este: A luz veio ao mundo, e os homens amaram antes as trevas que a luz, porque as suas obras eram más João 3:19",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 45,
+    "day": "045",
+    "text": "Porque para Deus nada será impossível. Lucas 1:37",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 46,
+    "day": "046",
+    "text": "Quando vem a soberba, então vem a desonra",
+    "reference": "mas com os humildes está a sabedoria. Provérbios 11:2",
+    "categories": [
+      "Humildade",
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "humildade",
+      "sabedoria"
+    ],
+    "explanation": "Mostra que a sabedoria que vem de Deus ajuda a viver bem e tomar boas decisões."
+  },
+  {
+    "id": 47,
+    "day": "047",
+    "text": "Tu me farás conhecer a vereda da vida",
+    "reference": "à tua mão direita há delícias perpetuamente. Salmos 16:11",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 48,
+    "day": "048",
+    "text": "Desvia os meus olhos de contemplarem a vaidade, e vivifica-me no teu caminho. Salmos 119:37",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 49,
+    "day": "049",
+    "text": "Não andeis ansiosos por coisa alguma",
+    "reference": "e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus. Filipenses 4:6-7",
+    "categories": [
+      "Oração",
+      "Graça",
+      "Paz"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "graca",
+      "paz"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 50,
+    "day": "050",
+    "text": "Mas a hora vem, e agora é, em que os verdadeiros adoradores adorarão o Pai em espírito e em verdade",
+    "reference": "porque o Pai procura a tais que assim o adorem. Deus é Espírito, e é necessário que os que o adoram o adorem em espírito e em verdade. João 4:23-24",
+    "categories": [
+      "Oração",
+      "Espírito Santo",
+      "Adoração"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "espirito-santo",
+      "adoracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 51,
+    "day": "051",
+    "text": "Seca-se a erva, e murcha a flor",
+    "reference": "mas a palavra de nosso Deus subsiste eternamente. Isaías 40:8",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 52,
+    "day": "052",
+    "text": "O Senhor é a minha luz e a minha salvação",
+    "reference": "de quem me recearei? Salmos 27:1",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Aponta para a salvação em Jesus, que garante vida eterna e esperança."
+  },
+  {
+    "id": 53,
+    "day": "053",
+    "text": "Mas os teus servos passarão, cada um que está armado para a guerra, a pelejar perante o Senhor, como diz o meu senhor. Números 32:27",
+    "reference": "",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 54,
+    "day": "054",
+    "text": "O Senhor é o meu pastor",
+    "reference": "Salmos 23:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 55,
+    "day": "055",
+    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna",
+    "reference": "João 3:16",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Aponta para a salvação em Jesus, que garante vida eterna e esperança."
+  },
+  {
+    "id": 56,
+    "day": "056",
+    "text": "Posso todas as coisas em Cristo que me fortalece",
+    "reference": "Filipenses 4:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 57,
+    "day": "057",
+    "text": "Porque eu bem sei os pensamentos que penso de vós, diz o Senhor",
+    "reference": "Jeremias 29:11",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 58,
+    "day": "058",
+    "text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento",
+    "reference": "Provérbios 3:5",
+    "categories": [
+      "Confiança",
+      "Oração"
+    ],
+    "categorySlugs": [
+      "confianca",
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 59,
+    "day": "059",
+    "text": "Entrega o teu caminho ao Senhor",
+    "reference": "Salmos 37:5",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 60,
+    "day": "060",
+    "text": "O Senhor é o nosso refúgio e fortaleza, socorro bem presente na angústia",
+    "reference": "Salmos 46:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 61,
+    "day": "061",
+    "text": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho",
+    "reference": "Salmos 119:105",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 62,
+    "day": "062",
+    "text": "Mas os que esperam no Senhor renovarão as forças",
+    "reference": "Isaías 40:31",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 63,
+    "day": "063",
+    "text": "Sede fortes e corajosos",
+    "reference": "Josué 1:9",
+    "categories": [
+      "Alimento"
+    ],
+    "categorySlugs": [
+      "alimento"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 64,
+    "day": "064",
+    "text": "Buscai em primeiro lugar o reino de Deus, e a sua justiça, e todas estas coisas vos serão acrescentadas",
+    "reference": "Mateus 6:33",
+    "categories": [
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "justica"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 65,
+    "day": "065",
+    "text": "Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós",
+    "reference": "1 Pedro 5:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 66,
+    "day": "066",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados, e nos purificar de toda a injustiça",
+    "reference": "1 João 1:9",
+    "categories": [
+      "Justiça",
+      "Perdão"
+    ],
+    "categorySlugs": [
+      "justica",
+      "perdao"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 67,
+    "day": "067",
+    "text": "Porque pela graça sois salvos, por meio da fé",
+    "reference": "Efésios 2:8-9",
+    "categories": [
+      "Graça",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "graca",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 68,
+    "day": "068",
+    "text": "Tudo posso naquele que me fortalece",
+    "reference": "Filipenses 4:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 69,
+    "day": "069",
+    "text": "No princípio criou Deus os céus e a terra",
+    "reference": "Gênesis 1:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 70,
+    "day": "070",
+    "text": "Porque nada há impossível para Deus",
+    "reference": "Lucas 1:37",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 71,
+    "day": "071",
+    "text": "O Senhor te abençoe e te guarde",
+    "reference": "Números 6:24-26",
+    "categories": [
+      "Benção",
+      "Paz"
+    ],
+    "categorySlugs": [
+      "bencao",
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 72,
+    "day": "072",
+    "text": "Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes, que não sabes",
+    "reference": "Jeremias 33:3",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 73,
+    "day": "073",
+    "text": "Aproximai-vos de Deus, e ele se aproximará de vós",
+    "reference": "Tiago 4:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 74,
+    "day": "074",
+    "text": "Porque vivemos por fé, e não pelo que vemos",
+    "reference": "2 Coríntios 5:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 75,
+    "day": "075",
+    "text": "O Senhor pelejará por vós, e vós vos calareis",
+    "reference": "Êxodo 14:14",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 76,
+    "day": "076",
+    "text": "Sê tu uma bênção",
+    "reference": "Gênesis 12:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 77,
+    "day": "077",
+    "text": "Agrada-te do Senhor, e ele satisfará os desejos do teu coração",
+    "reference": "Salmos 37:4",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 78,
+    "day": "078",
+    "text": "Em paz me deito e logo pego no sono, porque só tu, Senhor, me fazes habitar em segurança",
+    "reference": "Salmos 4:8",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 79,
+    "day": "079",
+    "text": "Guarda o teu coração, porque dele procedem as fontes da vida",
+    "reference": "Provérbios 4:23",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 80,
+    "day": "080",
+    "text": "Eu sou o caminho, e a verdade e a vida",
+    "reference": "João 14:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 81,
+    "day": "081",
+    "text": "Deleita-te também no Senhor, e ele te concederá o que deseja o teu coração",
+    "reference": "Salmos 37:4",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 82,
+    "day": "082",
+    "text": "Sede prontos para ouvir, tardios para falar, tardios para se irar",
+    "reference": "Tiago 1:19",
+    "categories": [
+      "Alimento"
+    ],
+    "categorySlugs": [
+      "alimento"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 83,
+    "day": "083",
+    "text": "O Senhor é bom, um refúgio no dia da angústia",
+    "reference": "Naum 1:7",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 84,
+    "day": "084",
+    "text": "O Deus de toda graça, que em Cristo Jesus vos chamou à sua eterna glória, depois de haverdes padecido um pouco, ele mesmo vos aperfeiçoará, confirmará, fortificará e fortalecerá",
+    "reference": "1 Pedro 5:10",
+    "categories": [
+      "Graça"
+    ],
+    "categorySlugs": [
+      "graca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 85,
+    "day": "085",
+    "text": "O meu Deus, segundo a sua riqueza em glória, há de suprir todas as vossas necessidades em Cristo Jesus",
+    "reference": "Filipenses 4:19",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 86,
+    "day": "086",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso entendimento",
+    "reference": "Romanos 12:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 87,
+    "day": "087",
+    "text": "O Senhor é o meu ajudador, e não temerei o que me possa fazer o homem",
+    "reference": "Hebreus 13:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 88,
+    "day": "088",
+    "text": "Melhor é o pouco com justiça, do que grandes rendas com injustiça",
+    "reference": "Provérbios 16:8",
+    "categories": [
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "justica"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 89,
+    "day": "089",
+    "text": "O nome do Senhor é torre forte",
+    "reference": "Provérbios 18:10",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 90,
+    "day": "090",
+    "text": "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos corações sábios",
+    "reference": "Salmos 90:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a sabedoria que vem de Deus ajuda a viver bem e tomar boas decisões."
+  },
+  {
+    "id": 91,
+    "day": "091",
+    "text": "Não te deixes vencer do mal, mas vence o mal com o bem",
+    "reference": "Romanos 12:21",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 92,
+    "day": "092",
+    "text": "Tudo quanto fizerdes, fazei-o de coração, como ao Senhor, e não aos homens",
+    "reference": "Colossenses 3:23",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 93,
+    "day": "093",
+    "text": "Regozijai-vos sempre. Orai sem cessar. Em tudo dai graças",
+    "reference": "1 Tessalonicenses 5:16-18",
+    "categories": [
+      "Graça"
+    ],
+    "categorySlugs": [
+      "graca"
+    ],
+    "explanation": "Explica que a salvação é um presente gratuito de Deus, dado por amor e não por merecimento."
+  },
+  {
+    "id": 94,
+    "day": "094",
+    "text": "O Senhor reina",
+    "reference": "Salmos 99:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 95,
+    "day": "095",
+    "text": "Bem-aventurado o homem que confia no Senhor, e cuja confiança é o Senhor",
+    "reference": "Jeremias 17:7",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 96,
+    "day": "096",
+    "text": "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus",
+    "reference": "Romanos 8:28",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 97,
+    "day": "097",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 98,
+    "day": "098",
+    "text": "Combati o bom combate, acabei a carreira, guardei a fé",
+    "reference": "2 Timóteo 4:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 99,
+    "day": "099",
+    "text": "A fé é o firme fundamento das coisas que se esperam, e a prova das coisas que se não veem",
+    "reference": "Hebreus 11:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 100,
+    "day": "100",
+    "text": "Acheguemo-nos, pois, com confiança ao trono da graça, para que alcancemos misericórdia e achemos graça, a fim de sermos ajudados em tempo oportuno",
+    "reference": "Hebreus 4:16",
+    "categories": [
+      "Confiança",
+      "Graça"
+    ],
+    "categorySlugs": [
+      "confianca",
+      "graca"
+    ],
+    "explanation": "Explica que a salvação é um presente gratuito de Deus, dado por amor e não por merecimento."
+  },
+  {
+    "id": 101,
+    "day": "101",
+    "text": "Mas em todas estas coisas somos mais que vencedores, por aquele que nos amou",
+    "reference": "Romanos 8:37",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 102,
+    "day": "102",
+    "text": "Sede fortes no Senhor e na força do seu poder",
+    "reference": "Efésios 6:10",
+    "categories": [
+      "Alimento",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 103,
+    "day": "103",
+    "text": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo",
+    "reference": "Efésios 6:11",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 104,
+    "day": "104",
+    "text": "O fruto do Espírito é amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança",
+    "reference": "Gálatas 5:22-23",
+    "categories": [
+      "Amor",
+      "Paz",
+      "Espírito Santo",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "amor",
+      "paz",
+      "espirito-santo",
+      "feesperanca"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 105,
+    "day": "105",
+    "text": "Fiel é Deus, que não vos deixará tentar acima do que podeis",
+    "reference": "1 Coríntios 10:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 106,
+    "day": "106",
+    "text": "A palavra de Cristo habite em vós abundantemente",
+    "reference": "Colossenses 3:16",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 107,
+    "day": "107",
+    "text": "Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa",
+    "reference": "Atos 16:31",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 108,
+    "day": "108",
+    "text": "Eu e a minha casa serviremos ao Senhor",
+    "reference": "Josué 24:15",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 109,
+    "day": "109",
+    "text": "Disse Jesus: A minha paz vos deixo, a minha paz vos dou",
+    "reference": "João 14:27",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 110,
+    "day": "110",
+    "text": "Purifica-me, e ficarei mais branco do que a neve",
+    "reference": "Salmos 51:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 111,
+    "day": "111",
+    "text": "Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto",
+    "reference": "Salmos 51:10",
+    "categories": [
+      "Oração",
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "espirito-santo"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 112,
+    "day": "112",
+    "text": "Prova e vê que o Senhor é bom",
+    "reference": "Salmos 34:8",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 113,
+    "day": "113",
+    "text": "Perto está o Senhor dos que têm o coração quebrantado",
+    "reference": "Salmos 34:18",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 114,
+    "day": "114",
+    "text": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo",
+    "reference": "Salmos 23:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 115,
+    "day": "115",
+    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia",
+    "reference": "Salmos 46:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 116,
+    "day": "116",
+    "text": "Não temas, crê somente",
+    "reference": "Marcos 5:36",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 117,
+    "day": "117",
+    "text": "O ladrão não vem senão a roubar, matar e destruir",
+    "reference": "João 10:10",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 118,
+    "day": "118",
+    "text": "Disse-lhe Jesus: Eu sou a ressurreição e a vida",
+    "reference": "João 11:25",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 119,
+    "day": "119",
+    "text": "Cheguemo-nos a Deus com coração sincero, em inteira certeza de fé",
+    "reference": "Hebreus 10:22",
+    "categories": [
+      "Oração",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 120,
+    "day": "120",
+    "text": "Porque dele, e por ele, e para ele, são todas as coisas",
+    "reference": "Romanos 11:36",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 121,
+    "day": "121",
+    "text": "Sede praticantes da palavra e não somente ouvintes",
+    "reference": "Tiago 1:22",
+    "categories": [
+      "Alimento",
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 122,
+    "day": "122",
+    "text": "Melhor é o ouvir a repreensão do sábio do que ouvir a canção dos tolos",
+    "reference": "Eclesiastes 7:5",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a sabedoria que vem de Deus ajuda a viver bem e tomar boas decisões."
+  },
+  {
+    "id": 123,
+    "day": "123",
+    "text": "Tudo o que tem fôlego louve ao Senhor",
+    "reference": "Salmos 150:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 124,
+    "day": "124",
+    "text": "Bem-aventurados os que choram, porque eles serão consolados",
+    "reference": "Mateus 5:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 125,
+    "day": "125",
+    "text": "Pedi, e dar-se-vos-á",
+    "reference": "Mateus 7:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 126,
+    "day": "126",
+    "text": "Bem-aventurados os limpos de coração, porque eles verão a Deus",
+    "reference": "Mateus 5:8",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 127,
+    "day": "127",
+    "text": "Ide, portanto, fazei discípulos de todas as nações",
+    "reference": "Mateus 28:19",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 128,
+    "day": "128",
+    "text": "E eis que eu estou convosco todos os dias, até a consumação dos séculos",
+    "reference": "Mateus 28:20",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 129,
+    "day": "129",
+    "text": "Humilhai-vos perante o Senhor, e ele vos exaltará",
+    "reference": "Tiago 4:10",
+    "categories": [
+      "Humildade"
+    ],
+    "categorySlugs": [
+      "humildade"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 130,
+    "day": "130",
+    "text": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam",
+    "reference": "Salmos 127:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 131,
+    "day": "131",
+    "text": "O amor é paciente, é benigno",
+    "reference": "1 Coríntios 13:4",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 132,
+    "day": "132",
+    "text": "Agora, pois, permanecem a fé, a esperança e o amor, estes três",
+    "reference": "1 Coríntios 13:13",
+    "categories": [
+      "Amor",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "amor",
+      "feesperanca"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 133,
+    "day": "133",
+    "text": "Sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição",
+    "reference": "Colossenses 3:14",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 134,
+    "day": "134",
+    "text": "O justo viverá da fé",
+    "reference": "Habacuque 2:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 135,
+    "day": "135",
+    "text": "Misericordioso e piedoso é o Senhor",
+    "reference": "Salmos 103:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 136,
+    "day": "136",
+    "text": "Renovam-se cada manhã as suas misericórdias",
+    "reference": "Lamentações 3:23",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 137,
+    "day": "137",
+    "text": "Não to mandei eu? Esforça-te, e tem bom ânimo",
+    "reference": "Josué 1:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 138,
+    "day": "138",
+    "text": "Sede, pois, imitadores de Deus, como filhos amados",
+    "reference": "Efésios 5:1",
+    "categories": [
+      "Alimento",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 139,
+    "day": "139",
+    "text": "Deus é amor",
+    "reference": "1 João 4:8",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 140,
+    "day": "140",
+    "text": "Andarão dois juntos, se não estiverem de acordo?",
+    "reference": "Amós 3:3",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 141,
+    "day": "141",
+    "text": "Melhor é serem dois do que um",
+    "reference": "Eclesiastes 4:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 142,
+    "day": "142",
+    "text": "Filho meu, ouve a instrução de teu pai, e não deixes a doutrina de tua mãe",
+    "reference": "Provérbios 1:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 143,
+    "day": "143",
+    "text": "Honra a teu pai e a tua mãe",
+    "reference": "Êxodo 20:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 144,
+    "day": "144",
+    "text": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome",
+    "reference": "Salmos 103:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 145,
+    "day": "145",
+    "text": "O Senhor te guardará de todo mal",
+    "reference": "Salmos 121:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 146,
+    "day": "146",
+    "text": "Elevo os meus olhos para os montes",
+    "reference": "Salmos 121:1-2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 147,
+    "day": "147",
+    "text": "Não temas, porque eu te remi",
+    "reference": "Isaías 43:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 148,
+    "day": "148",
+    "text": "Vinde, e arguí-me, diz o Senhor",
+    "reference": "Isaías 1:18",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 149,
+    "day": "149",
+    "text": "Alegrai-vos sempre no Senhor",
+    "reference": "Filipenses 4:4",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 150,
+    "day": "150",
+    "text": "Aproxima-te de Deus, e ele se aproximará de ti",
+    "reference": "Tiago 4:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 151,
+    "day": "151",
+    "text": "O Senhor é a minha luz e a minha salvação",
+    "reference": "Salmos 27:1",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Aponta para a salvação em Jesus, que garante vida eterna e esperança."
+  },
+  {
+    "id": 152,
+    "day": "152",
+    "text": "Porque para mim o viver é Cristo, e o morrer é ganho",
+    "reference": "Filipenses 1:21",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 153,
+    "day": "153",
+    "text": "O Senhor é bom para todos, e as suas misericórdias são sobre todas as suas obras",
+    "reference": "Salmos 145:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 154,
+    "day": "154",
+    "text": "Clamai ao Senhor, porque ele é bom",
+    "reference": "Salmos 118:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 155,
+    "day": "155",
+    "text": "Não to mandei eu? Esforça-te e tem bom ânimo",
+    "reference": "Josué 1:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 156,
+    "day": "156",
+    "text": "O Senhor é misericordioso e compassivo",
+    "reference": "Salmos 145:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 157,
+    "day": "157",
+    "text": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus",
+    "reference": "Mateus 5:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 158,
+    "day": "158",
+    "text": "Pois onde estiver o teu tesouro, aí estará também o teu coração",
+    "reference": "Mateus 6:21",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 159,
+    "day": "159",
+    "text": "Quem habita no esconderijo do Altíssimo, à sombra do Onipotente descansará",
+    "reference": "Salmos 91:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 160,
+    "day": "160",
+    "text": "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei",
+    "reference": "Salmos 91:2",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 161,
+    "day": "161",
+    "text": "Caiam mil ao teu lado, e dez mil à tua direita, mas tu não serás atingido",
+    "reference": "Salmos 91:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 162,
+    "day": "162",
+    "text": "Aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos",
+    "reference": "Salmos 91:11",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 163,
+    "day": "163",
+    "text": "Porque a palavra de Deus é viva e eficaz, e mais penetrante do que espada alguma de dois gumes",
+    "reference": "Hebreus 4:12",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 164,
+    "day": "164",
+    "text": "No amor não há temor, antes o perfeito amor lança fora o temor",
+    "reference": "1 João 4:18",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 165,
+    "day": "165",
+    "text": "E conhecereis a verdade, e a verdade vos libertará",
+    "reference": "João 8:32",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 166,
+    "day": "166",
+    "text": "Vós sois a luz do mundo",
+    "reference": "Mateus 5:14",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 167,
+    "day": "167",
+    "text": "Assim resplandeça a vossa luz diante dos homens",
+    "reference": "Mateus 5:16",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 168,
+    "day": "168",
+    "text": "Pedi, e dar-se-vos-á",
+    "reference": "Mateus 7:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 169,
+    "day": "169",
+    "text": "Eu sou o pão da vida",
+    "reference": "João 6:35",
+    "categories": [
+      "Alimento"
+    ],
+    "categorySlugs": [
+      "alimento"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 170,
+    "day": "170",
+    "text": "Eu sou a videira, vós as varas",
+    "reference": "João 15:5",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 171,
+    "day": "171",
+    "text": "Nisto conhecerão todos que sois meus discípulos, se vos amardes uns aos outros",
+    "reference": "João 13:35",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 172,
+    "day": "172",
+    "text": "Se o Filho vos libertar, verdadeiramente sereis livres",
+    "reference": "João 8:36",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 173,
+    "day": "173",
+    "text": "O ladrão não vem senão a roubar, matar e destruir",
+    "reference": "João 10:10",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 174,
+    "day": "174",
+    "text": "O Senhor é o meu rochedo, a minha fortaleza, o meu libertador",
+    "reference": "2 Samuel 22:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 175,
+    "day": "175",
+    "text": "Muitos são os planos no coração do homem, mas o conselho do Senhor permanecerá",
+    "reference": "Provérbios 19:21",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 176,
+    "day": "176",
+    "text": "Não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido",
+    "reference": "Gálatas 6:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 177,
+    "day": "177",
+    "text": "Levantai os olhos, e vede os campos, que já estão brancos para a ceifa",
+    "reference": "João 4:35",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 178,
+    "day": "178",
+    "text": "Não se turbe o vosso coração",
+    "reference": "João 14:1",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 179,
+    "day": "179",
+    "text": "Eu sou o bom pastor",
+    "reference": "João 10:11",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 180,
+    "day": "180",
+    "text": "O Senhor dá força ao cansado, e multiplica as forças ao que não tem nenhum vigor",
+    "reference": "Isaías 40:29",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 181,
+    "day": "181",
+    "text": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei",
+    "reference": "Mateus 11:28",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 182,
+    "day": "182",
+    "text": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração",
+    "reference": "Mateus 11:29",
+    "categories": [
+      "Oração",
+      "Humildade"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "humildade"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 183,
+    "day": "183",
+    "text": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus",
+    "reference": "Filipenses 4:7",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 184,
+    "day": "184",
+    "text": "Regozijai-vos sempre no Senhor",
+    "reference": "Filipenses 4:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 185,
+    "day": "185",
+    "text": "Cristo morreu por nós, sendo nós ainda pecadores",
+    "reference": "Romanos 5:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 186,
+    "day": "186",
+    "text": "Sendo justificados pela fé, temos paz com Deus, por nosso Senhor Jesus Cristo",
+    "reference": "Romanos 5:1",
+    "categories": [
+      "Paz",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "paz",
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 187,
+    "day": "187",
+    "text": "O salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna, por Cristo Jesus nosso Senhor",
+    "reference": "Romanos 6:23",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 188,
+    "day": "188",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 189,
+    "day": "189",
+    "text": "Porque dele, e por ele, e para ele, são todas as coisas",
+    "reference": "Romanos 11:36",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 190,
+    "day": "190",
+    "text": "Não se embriaguem com vinho, mas enchei-vos do Espírito",
+    "reference": "Efésios 5:18",
+    "categories": [
+      "Espírito Santo",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "espirito-santo",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 191,
+    "day": "191",
+    "text": "Andai em amor, como também Cristo nos amou",
+    "reference": "Efésios 5:2",
+    "categories": [
+      "Amor",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "amor",
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 192,
+    "day": "192",
+    "text": "A vossa mansidão seja conhecida de todos os homens",
+    "reference": "Filipenses 4:5",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 193,
+    "day": "193",
+    "text": "Alegrai-vos com os que se alegram",
+    "reference": "Romanos 12:15",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 194,
+    "day": "194",
+    "text": "Tudo é possível ao que crê",
+    "reference": "Marcos 9:23",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 195,
+    "day": "195",
+    "text": "Se alguém está em Cristo, nova criatura é",
+    "reference": "2 Coríntios 5:17",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 196,
+    "day": "196",
+    "text": "Porque já estais mortos, e a vossa vida está escondida com Cristo em Deus",
+    "reference": "Colossenses 3:3",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 197,
+    "day": "197",
+    "text": "E a paz de Cristo domine em vossos corações",
+    "reference": "Colossenses 3:15",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 198,
+    "day": "198",
+    "text": "Perseverai em oração",
+    "reference": "Colossenses 4:2",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 199,
+    "day": "199",
+    "text": "Combate o bom combate da fé, apodera-te da vida eterna",
+    "reference": "1 Timóteo 6:12",
+    "categories": [
+      "Fé/Esperança",
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "feesperanca",
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 200,
+    "day": "200",
+    "text": "Guarda o bom depósito pelo Espírito Santo que habita em nós",
+    "reference": "2 Timóteo 1:14",
+    "categories": [
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "espirito-santo"
+    ],
+    "explanation": "Recorda que o Espírito Santo consola, fortalece e guia os que confiam em Deus."
+  },
+  {
+    "id": 201,
+    "day": "201",
+    "text": "Porque eu, o Senhor teu Deus, te tomo pela tua mão direita e te digo: Não temas",
+    "reference": "Isaías 41:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 202,
+    "day": "202",
+    "text": "Tu conservarás em paz aquele cuja mente está firme em ti",
+    "reference": "Isaías 26:3",
+    "categories": [
+      "Confiança",
+      "Paz"
+    ],
+    "categorySlugs": [
+      "confianca",
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 203,
+    "day": "203",
+    "text": "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto",
+    "reference": "Isaías 55:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 204,
+    "day": "204",
+    "text": "Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor",
+    "reference": "Isaías 55:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 205,
+    "day": "205",
+    "text": "Mas ele foi ferido pelas nossas transgressões e moído pelas nossas iniquidades",
+    "reference": "Isaías 53:5",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 206,
+    "day": "206",
+    "text": "Quando passares pelas águas, estarei contigo",
+    "reference": "Isaías 43:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 207,
+    "day": "207",
+    "text": "Porque um Menino nos nasceu, um Filho se nos deu",
+    "reference": "Isaías 9:6",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 208,
+    "day": "208",
+    "text": "Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos confins da terra, não se cansa nem se fatiga? Inescrutável é o seu entendimento",
+    "reference": "Isaías 40:28",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 209,
+    "day": "209",
+    "text": "Eu te amei com amor eterno",
+    "reference": "Jeremias 31:3",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 210,
+    "day": "210",
+    "text": "Buscar-me-eis e me achareis quando me buscardes de todo o vosso coração",
+    "reference": "Jeremias 29:13",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 211,
+    "day": "211",
+    "text": "Quero trazer à memória o que me pode dar esperança",
+    "reference": "Lamentações 3:21",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 212,
+    "day": "212",
+    "text": "As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim",
+    "reference": "Lamentações 3:22",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 213,
+    "day": "213",
+    "text": "A minha porção é o Senhor, diz a minha alma",
+    "reference": "Lamentações 3:24",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 214,
+    "day": "214",
+    "text": "Esforçai-vos, e ele fortalecerá o vosso coração, vós todos que esperais no Senhor",
+    "reference": "Salmos 31:24",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 215,
+    "day": "215",
+    "text": "O Senhor firmará os passos do homem bom, e deleita-se no seu caminho",
+    "reference": "Salmos 37:23",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 216,
+    "day": "216",
+    "text": "Lança o teu cuidado sobre o Senhor, e ele te susterá",
+    "reference": "Salmos 55:22",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 217,
+    "day": "217",
+    "text": "Em Deus tenho posto a minha confiança",
+    "reference": "Salmos 56:3-4",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 218,
+    "day": "218",
+    "text": "Melhor é um dia nos teus átrios do que mil",
+    "reference": "Salmos 84:10",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 219,
+    "day": "219",
+    "text": "Este é o dia que fez o Senhor",
+    "reference": "Salmos 118:24",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 220,
+    "day": "220",
+    "text": "Escondi a tua palavra no meu coração, para eu não pecar contra ti",
+    "reference": "Salmos 119:11",
+    "categories": [
+      "Palavra de Deus",
+      "Oração"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus",
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 221,
+    "day": "221",
+    "text": "Os que semeiam em lágrimas segarão com alegria",
+    "reference": "Salmos 126:5",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 222,
+    "day": "222",
+    "text": "Sonda-me, ó Deus, e conhece o meu coração",
+    "reference": "Salmos 139:23-24",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 223,
+    "day": "223",
+    "text": "Eu te louvarei, porque de um modo terrível e tão maravilhoso fui formado",
+    "reference": "Salmos 139:14",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 224,
+    "day": "224",
+    "text": "O temor do Senhor é o princípio da sabedoria",
+    "reference": "Provérbios 9:10",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "Mostra que a sabedoria que vem de Deus ajuda a viver bem e tomar boas decisões."
+  },
+  {
+    "id": 225,
+    "day": "225",
+    "text": "Não te estribes no teu próprio entendimento",
+    "reference": "Provérbios 3:5-6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 226,
+    "day": "226",
+    "text": "Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos",
+    "reference": "Provérbios 16:3",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 227,
+    "day": "227",
+    "text": "A resposta branda desvia o furor, mas a palavra dura suscita a ira",
+    "reference": "Provérbios 15:1",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 228,
+    "day": "228",
+    "text": "O coração alegre serve de bom remédio, mas o espírito abatido seca os ossos",
+    "reference": "Provérbios 17:22",
+    "categories": [
+      "Oração",
+      "Alegria",
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "alegria",
+      "espirito-santo"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 229,
+    "day": "229",
+    "text": "Em todo tempo ama o amigo, e na angústia nasce o irmão",
+    "reference": "Provérbios 17:17",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 230,
+    "day": "230",
+    "text": "O ferro com ferro se afia",
+    "reference": "Provérbios 27:17",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 231,
+    "day": "231",
+    "text": "Instruir a criança no caminho em que deve andar",
+    "reference": "Provérbios 22:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 232,
+    "day": "232",
+    "text": "O preguiçoso deseja e nada tem, mas a alma dos diligentes se farta",
+    "reference": "Provérbios 13:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 233,
+    "day": "233",
+    "text": "Há caminho que ao homem parece direito, mas o fim dele são os caminhos da morte",
+    "reference": "Provérbios 14:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 234,
+    "day": "234",
+    "text": "O que encobre as suas transgressões nunca prosperará",
+    "reference": "Provérbios 28:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 235,
+    "day": "235",
+    "text": "O homem faz planos no coração, mas a resposta certa dos lábios vem do Senhor",
+    "reference": "Provérbios 16:1",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 236,
+    "day": "236",
+    "text": "Como ribeiros de águas é o coração do rei na mão do Senhor",
+    "reference": "Provérbios 21:1",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 237,
+    "day": "237",
+    "text": "A quem dá liberalmente, ainda se lhe acrescenta mais",
+    "reference": "Provérbios 11:24-25",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 238,
+    "day": "238",
+    "text": "A ansiedade no coração deixa o homem abatido, mas uma boa palavra o alegra",
+    "reference": "Provérbios 12:25",
+    "categories": [
+      "Palavra de Deus",
+      "Oração",
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus",
+      "oracao",
+      "alegria"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 239,
+    "day": "239",
+    "text": "A vida e a morte estão no poder da língua",
+    "reference": "Provérbios 18:21",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 240,
+    "day": "240",
+    "text": "Toda palavra de Deus é pura",
+    "reference": "Provérbios 30:5",
+    "categories": [
+      "Palavra de Deus",
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus",
+      "confianca"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 241,
+    "day": "241",
+    "text": "Tudo tem o seu tempo determinado, e há tempo para todo propósito debaixo do céu",
+    "reference": "Eclesiastes 3:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 242,
+    "day": "242",
+    "text": "Tudo fez formoso em seu tempo",
+    "reference": "Eclesiastes 3:11",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 243,
+    "day": "243",
+    "text": "O cordão de três dobras não se quebra tão depressa",
+    "reference": "Eclesiastes 4:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 244,
+    "day": "244",
+    "text": "Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, então eu ouvirei dos céus",
+    "reference": "2 Crônicas 7:14",
+    "categories": [
+      "Oração",
+      "Humildade"
+    ],
+    "categorySlugs": [
+      "oracao",
+      "humildade"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 245,
+    "day": "245",
+    "text": "Os olhos do Senhor passam por toda a terra, para se mostrar forte para com aqueles cujo coração é perfeito para com ele",
+    "reference": "2 Crônicas 16:9",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 246,
+    "day": "246",
+    "text": "Não temais",
+    "reference": "2 Crônicas 20:15",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 247,
+    "day": "247",
+    "text": "A alegria do Senhor é a vossa força",
+    "reference": "Neemias 8:10",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 248,
+    "day": "248",
+    "text": "A minha presença irá contigo, e te darei descanso",
+    "reference": "Êxodo 33:14",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 249,
+    "day": "249",
+    "text": "Deus não é homem, para que minta",
+    "reference": "Números 23:19",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 250,
+    "day": "250",
+    "text": "Esforçai-vos e tende bom ânimo",
+    "reference": "Deuteronômio 31:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 251,
+    "day": "251",
+    "text": "Não se aparte da tua boca o livro desta lei",
+    "reference": "Josué 1:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 252,
+    "day": "252",
+    "text": "Eu sei que o meu Redentor vive",
+    "reference": "Jó 19:25",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 253,
+    "day": "253",
+    "text": "Bem sei que tudo podes, e nenhum dos teus planos pode ser impedido",
+    "reference": "Jó 42:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 254,
+    "day": "254",
+    "text": "O Senhor teu Deus está no meio de ti, poderoso para te salvar",
+    "reference": "Sofonias 3:17",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 255,
+    "day": "255",
+    "text": "Não por força nem por violência, mas pelo meu Espírito, diz o Senhor dos Exércitos",
+    "reference": "Zacarias 4:6",
+    "categories": [
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "espirito-santo"
+    ],
+    "explanation": "Recorda que o Espírito Santo consola, fortalece e guia os que confiam em Deus."
+  },
+  {
+    "id": 256,
+    "day": "256",
+    "text": "Ele te declarou, ó homem, o que é bom: praticar a justiça, amar a misericórdia e andar humildemente com o teu Deus",
+    "reference": "Miquéias 6:8",
+    "categories": [
+      "Humildade",
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "humildade",
+      "justica"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 257,
+    "day": "257",
+    "text": "Ainda que a figueira não floresça... todavia eu me alegrarei no Senhor",
+    "reference": "Habacuque 3:17-18",
+    "categories": [
+      "Alegria"
+    ],
+    "categorySlugs": [
+      "alegria"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 258,
+    "day": "258",
+    "text": "Os entendidos resplandecerão como o resplendor do firmamento",
+    "reference": "Daniel 12:3",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 259,
+    "day": "259",
+    "text": "Seja sobre nós a graça do Senhor, nosso Deus",
+    "reference": "Salmos 90:17",
+    "categories": [
+      "Graça"
+    ],
+    "categorySlugs": [
+      "graca"
+    ],
+    "explanation": "Explica que a salvação é um presente gratuito de Deus, dado por amor e não por merecimento."
+  },
+  {
+    "id": 260,
+    "day": "260",
+    "text": "Vós sois o sal da terra",
+    "reference": "Mateus 5:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 261,
+    "day": "261",
+    "text": "Portanto, não vos inquieteis com o dia de amanhã, pois o amanhã cuidará de si mesmo",
+    "reference": "Mateus 6:34",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 262,
+    "day": "262",
+    "text": "Tudo quanto, pois, quereis que os homens vos façam, fazei-lho também vós",
+    "reference": "Mateus 7:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 263,
+    "day": "263",
+    "text": "Tomai sobre vós o meu jugo... porque o meu jugo é suave, e o meu fardo é leve",
+    "reference": "Mateus 11:29-30",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 264,
+    "day": "264",
+    "text": "Se alguém quer vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me",
+    "reference": "Mateus 16:24",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 265,
+    "day": "265",
+    "text": "Porque onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles",
+    "reference": "Mateus 18:20",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 266,
+    "day": "266",
+    "text": "Aos homens é isso impossível, mas a Deus tudo é possível",
+    "reference": "Mateus 19:26",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 267,
+    "day": "267",
+    "text": "Amarás o Senhor teu Deus... e ao teu próximo como a ti mesmo",
+    "reference": "Mateus 22:37-39",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 268,
+    "day": "268",
+    "text": "Passará o céu e a terra, mas as minhas palavras não hão de passar",
+    "reference": "Mateus 24:35",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 269,
+    "day": "269",
+    "text": "Para Deus todas as coisas são possíveis",
+    "reference": "Marcos 10:27",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 270,
+    "day": "270",
+    "text": "Tudo o que pedirdes em oração, crede que o recebereis, e tê-lo-eis",
+    "reference": "Marcos 11:24",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 271,
+    "day": "271",
+    "text": "Dai, e ser-vos-á dado",
+    "reference": "Lucas 6:38",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 272,
+    "day": "272",
+    "text": "Se alguém quer vir após mim, negue-se a si mesmo, tome cada dia a sua cruz e siga-me",
+    "reference": "Lucas 9:23",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 273,
+    "day": "273",
+    "text": "Pedi, e dar-se-vos-á",
+    "reference": "Lucas 11:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 274,
+    "day": "274",
+    "text": "As coisas que são impossíveis aos homens são possíveis a Deus",
+    "reference": "Lucas 18:27",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 275,
+    "day": "275",
+    "text": "Mas a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus",
+    "reference": "João 1:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 276,
+    "day": "276",
+    "text": "Porque Deus enviou o seu Filho ao mundo, não para que condenasse o mundo, mas para que o mundo fosse salvo por ele",
+    "reference": "João 3:17",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 277,
+    "day": "277",
+    "text": "Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna",
+    "reference": "João 5:24",
+    "categories": [
+      "Palavra de Deus",
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus",
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 278,
+    "day": "278",
+    "text": "Quem crê em mim, como diz a Escritura, rios de água viva correrão do seu ventre",
+    "reference": "João 7:38",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a Bíblia é a palavra de Deus e guia para uma vida de fé."
+  },
+  {
+    "id": 279,
+    "day": "279",
+    "text": "No mundo tereis aflições",
+    "reference": "João 16:33",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 280,
+    "day": "280",
+    "text": "Mas recebereis poder, ao descer sobre vós o Espírito Santo",
+    "reference": "Atos 1:8",
+    "categories": [
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "espirito-santo"
+    ],
+    "explanation": "Recorda que o Espírito Santo consola, fortalece e guia os que confiam em Deus."
+  },
+  {
+    "id": 281,
+    "day": "281",
+    "text": "E em nenhum outro há salvação",
+    "reference": "Atos 4:12",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Aponta para a salvação em Jesus, que garante vida eterna e esperança."
+  },
+  {
+    "id": 282,
+    "day": "282",
+    "text": "Mais bem-aventurada coisa é dar do que receber",
+    "reference": "Atos 20:35",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 283,
+    "day": "283",
+    "text": "Porque não me envergonho do evangelho de Cristo",
+    "reference": "Romanos 1:16",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 284,
+    "day": "284",
+    "text": "Porque todos pecaram e destituídos estão da glória de Deus",
+    "reference": "Romanos 3:23",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 285,
+    "day": "285",
+    "text": "Agora, pois, nenhuma condenação há para os que estão em Cristo Jesus",
+    "reference": "Romanos 8:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 286,
+    "day": "286",
+    "text": "Porque para mim tenho por certo que as aflições do tempo presente não são para comparar com a glória que em nós há de ser revelada",
+    "reference": "Romanos 8:18",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 287,
+    "day": "287",
+    "text": "Porque estou certo de que nem a morte, nem a vida... nos poderá separar do amor de Deus",
+    "reference": "Romanos 8:38-39",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 288,
+    "day": "288",
+    "text": "Se com a tua boca confessares ao Senhor Jesus e em teu coração creres que Deus o ressuscitou dentre os mortos, serás salvo",
+    "reference": "Romanos 10:9",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 289,
+    "day": "289",
+    "text": "Rogo-vos... que apresenteis os vossos corpos em sacrifício vivo, santo e agradável a Deus",
+    "reference": "Romanos 12:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 290,
+    "day": "290",
+    "text": "Alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração",
+    "reference": "Romanos 12:12",
+    "categories": [
+      "Alimento",
+      "Oração",
+      "Alegria",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "oracao",
+      "alegria",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 291,
+    "day": "291",
+    "text": "E o Deus de esperança vos encha de todo o gozo e paz em crença",
+    "reference": "Romanos 15:13",
+    "categories": [
+      "Paz",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "paz",
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 292,
+    "day": "292",
+    "text": "Não sabeis vós que sois o templo de Deus e que o Espírito de Deus habita em vós?",
+    "reference": "1 Coríntios 3:16",
+    "categories": [
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "espirito-santo"
+    ],
+    "explanation": "Recorda que o Espírito Santo consola, fortalece e guia os que confiam em Deus."
+  },
+  {
+    "id": 293,
+    "day": "293",
+    "text": "Ou não sabeis que o vosso corpo é o templo do Espírito Santo?",
+    "reference": "1 Coríntios 6:19-20",
+    "categories": [
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "espirito-santo"
+    ],
+    "explanation": "Recorda que o Espírito Santo consola, fortalece e guia os que confiam em Deus."
+  },
+  {
+    "id": 294,
+    "day": "294",
+    "text": "Quer, pois, comais, quer bebais, ou façais qualquer outra coisa, fazei tudo para glória de Deus",
+    "reference": "1 Coríntios 10:31",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 295,
+    "day": "295",
+    "text": "O amor tudo sofre, tudo crê, tudo espera, tudo suporta",
+    "reference": "1 Coríntios 13:7",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 296,
+    "day": "296",
+    "text": "Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor",
+    "reference": "1 Coríntios 15:58",
+    "categories": [
+      "Alimento"
+    ],
+    "categorySlugs": [
+      "alimento"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 297,
+    "day": "297",
+    "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda consolação",
+    "reference": "2 Coríntios 1:3-4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 298,
+    "day": "298",
+    "text": "Por isso não desfalecemos",
+    "reference": "2 Coríntios 4:16",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 299,
+    "day": "299",
+    "text": "Já estou crucificado com Cristo",
+    "reference": "Gálatas 2:20",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 300,
+    "day": "300",
+    "text": "Para a liberdade Cristo nos libertou",
+    "reference": "Gálatas 5:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 301,
+    "day": "301",
+    "text": "Levai as cargas uns dos outros",
+    "reference": "Gálatas 6:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 302,
+    "day": "302",
+    "text": "Bendito o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituais",
+    "reference": "Efésios 1:3",
+    "categories": [
+      "Benção",
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "bencao",
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 303,
+    "day": "303",
+    "text": "Porque somos feitura dele, criados em Cristo Jesus para boas obras",
+    "reference": "Efésios 2:10",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 304,
+    "day": "304",
+    "text": "Àquele que é poderoso para fazer infinitamente mais do que tudo quanto pedimos ou pensamos",
+    "reference": "Efésios 3:20",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 305,
+    "day": "305",
+    "text": "Antes, sede uns para com os outros benignos, compassivos, perdoando-vos uns aos outros",
+    "reference": "Efésios 4:32",
+    "categories": [
+      "Alimento",
+      "Fé/Esperança",
+      "Perdão"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "feesperanca",
+      "perdao"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 306,
+    "day": "306",
+    "text": "Vede prudentemente como andais, não como nécios, mas como sábios",
+    "reference": "Efésios 5:15-16",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 307,
+    "day": "307",
+    "text": "Estou certo de que aquele que começou em vós a boa obra a aperfeiçoará até ao dia de Jesus Cristo",
+    "reference": "Filipenses 1:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 308,
+    "day": "308",
+    "text": "Nada façais por contenda ou por vanglória, mas por humildade",
+    "reference": "Filipenses 2:3-4",
+    "categories": [
+      "Humildade"
+    ],
+    "categorySlugs": [
+      "humildade"
+    ],
+    "explanation": "Ensina que a humildade agrada a Deus e abre caminho para recebermos a sua ajuda."
+  },
+  {
+    "id": 309,
+    "day": "309",
+    "text": "Porque Deus é o que opera em vós tanto o querer como o efetuar",
+    "reference": "Filipenses 2:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 310,
+    "day": "310",
+    "text": "Esquecendo-me das coisas que atrás ficam, e avançando para as que estão diante de mim",
+    "reference": "Filipenses 3:13-14",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 311,
+    "day": "311",
+    "text": "Quanto ao mais, irmãos, tudo o que é verdadeiro, honesto, justo, puro, amável, de boa fama... nisso pensai",
+    "reference": "Filipenses 4:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 312,
+    "day": "312",
+    "text": "E tudo quanto fizerdes por palavras ou por obras, fazei-o em nome do Senhor Jesus",
+    "reference": "Colossenses 3:17",
+    "categories": [
+      "Palavra de Deus"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 313,
+    "day": "313",
+    "text": "Pensai nas coisas que são de cima, e não nas que são da terra",
+    "reference": "Colossenses 3:2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 314,
+    "day": "314",
+    "text": "Portai-vos com sabedoria para com os que estão de fora",
+    "reference": "Colossenses 4:5-6",
+    "categories": [
+      "Palavra de Deus",
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "palavra-de-deus",
+      "sabedoria"
+    ],
+    "explanation": "Mostra que a sabedoria que vem de Deus ajuda a viver bem e tomar boas decisões."
+  },
+  {
+    "id": 315,
+    "day": "315",
+    "text": "Porque nele foram criadas todas as coisas... e nele tudo subsiste",
+    "reference": "Colossenses 1:16-17",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 316,
+    "day": "316",
+    "text": "Como, pois, recebestes o Senhor Jesus Cristo, assim andai nele",
+    "reference": "Colossenses 2:6-7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 317,
+    "day": "317",
+    "text": "O mesmo Senhor da paz vos dê sempre paz de toda maneira",
+    "reference": "2 Tessalonicenses 3:16",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "Lembra que a verdadeira paz vem de Deus e pode acalmar mesmo em tempos difíceis."
+  },
+  {
+    "id": 318,
+    "day": "318",
+    "text": "Fiel é o Senhor, que vos confirmará e guardará do maligno",
+    "reference": "2 Tessalonicenses 3:3",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 319,
+    "day": "319",
+    "text": "Ninguém despreze a tua mocidade",
+    "reference": "1 Timóteo 4:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 320,
+    "day": "320",
+    "text": "Grande ganho é a piedade com contentamento",
+    "reference": "1 Timóteo 6:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 321,
+    "day": "321",
+    "text": "Se somos infiéis, ele permanece fiel",
+    "reference": "2 Timóteo 2:13",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 322,
+    "day": "322",
+    "text": "Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a instrução na justiça",
+    "reference": "2 Timóteo 3:16-17",
+    "categories": [
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "justica"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 323,
+    "day": "323",
+    "text": "A graça de Deus se há manifestado, trazendo salvação a todos os homens, ensinando-nos que, renunciando à impiedade, vivamos de modo sensato, justo e piedoso",
+    "reference": "Tito 2:11-12",
+    "categories": [
+      "Graça",
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "graca",
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Explica que a salvação é um presente gratuito de Deus, dado por amor e não por merecimento."
+  },
+  {
+    "id": 324,
+    "day": "324",
+    "text": "Temos esta esperança como âncora da alma, segura e firme",
+    "reference": "Hebreus 6:19",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 325,
+    "day": "325",
+    "text": "Retenhamos firmes a confissão da nossa esperança, porque fiel é o que prometeu",
+    "reference": "Hebreus 10:23",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 326,
+    "day": "326",
+    "text": "Consideremo-nos também uns aos outros, para nos estimularmos ao amor e às boas obras",
+    "reference": "Hebreus 10:24-25",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 327,
+    "day": "327",
+    "text": "Sem fé é impossível agradar a Deus",
+    "reference": "Hebreus 11:6",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 328,
+    "day": "328",
+    "text": "Corramos com perseverança a carreira que nos está proposta, olhando para Jesus",
+    "reference": "Hebreus 12:1-2",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 329,
+    "day": "329",
+    "text": "Seja a vossa vida sem avareza",
+    "reference": "Hebreus 13:5",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 330,
+    "day": "330",
+    "text": "Jesus Cristo é o mesmo, ontem, e hoje, e eternamente",
+    "reference": "Hebreus 13:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 331,
+    "day": "331",
+    "text": "Se alguém tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente",
+    "reference": "Tiago 1:5",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "Mostra que a sabedoria que vem de Deus ajuda a viver bem e tomar boas decisões."
+  },
+  {
+    "id": 332,
+    "day": "332",
+    "text": "Bem-aventurado o homem que suporta a tentação",
+    "reference": "Tiago 1:12",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 333,
+    "day": "333",
+    "text": "Sujeitai-vos, pois, a Deus",
+    "reference": "Tiago 4:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 334,
+    "day": "334",
+    "text": "Confessai as vossas culpas uns aos outros e orai uns pelos outros, para que sareis. A oração do justo pode muito em seus efeitos",
+    "reference": "Tiago 5:16",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 335,
+    "day": "335",
+    "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos gerou de novo para uma viva esperança",
+    "reference": "1 Pedro 1:3",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 336,
+    "day": "336",
+    "text": "Vós sois geração eleita, sacerdócio real, nação santa, povo adquirido",
+    "reference": "1 Pedro 2:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 337,
+    "day": "337",
+    "text": "Sobretudo, tende ardente caridade uns para com os outros",
+    "reference": "1 Pedro 4:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 338,
+    "day": "338",
+    "text": "Humilhai-vos, pois, debaixo da potente mão de Deus... lançando sobre ele toda a vossa ansiedade",
+    "reference": "1 Pedro 5:6-7",
+    "categories": [
+      "Humildade"
+    ],
+    "categorySlugs": [
+      "humildade"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 339,
+    "day": "339",
+    "text": "O Senhor não retarda a sua promessa, ainda que alguns a têm por tardia",
+    "reference": "2 Pedro 3:9",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 340,
+    "day": "340",
+    "text": "Se andarmos na luz, como ele na luz está, temos comunhão uns com os outros, e o sangue de Jesus Cristo nos purifica de todo pecado",
+    "reference": "1 João 1:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 341,
+    "day": "341",
+    "text": "Filhinhos meus, estas coisas vos escrevo, para que não pequeis",
+    "reference": "1 João 2:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 342,
+    "day": "342",
+    "text": "Vede quão grande amor nos tem concedido o Pai: que fôssemos chamados filhos de Deus",
+    "reference": "1 João 3:1",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 343,
+    "day": "343",
+    "text": "Filhinhos, sois de Deus, e já os tendes vencido",
+    "reference": "1 João 4:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 344,
+    "day": "344",
+    "text": "Porque todo o que é nascido de Deus vence o mundo",
+    "reference": "1 João 5:4",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que a fé em Deus dá força e esperança para enfrentar qualquer dificuldade."
+  },
+  {
+    "id": 345,
+    "day": "345",
+    "text": "E esta é a confiança que temos nele: que, se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve",
+    "reference": "1 João 5:14-15",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "Incentiva a confiar em Deus em todas as situações, pois Ele cuida e sustenta."
+  },
+  {
+    "id": 346,
+    "day": "346",
+    "text": "Ora, àquele que é poderoso para vos guardar de tropeçar e apresentar-vos irrepreensíveis",
+    "reference": "Judas 24",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 347,
+    "day": "347",
+    "text": "Eu sou o Alfa e o Ômega, o princípio e o fim, diz o Senhor",
+    "reference": "Apocalipse 1:8",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 348,
+    "day": "348",
+    "text": "Eis que estou à porta e bato",
+    "reference": "Apocalipse 3:20",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 349,
+    "day": "349",
+    "text": "E Deus limpará de seus olhos toda lágrima",
+    "reference": "Apocalipse 21:4",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Ensina que o amor de Deus e o amor ao próximo são o centro da fé e trazem paz ao coração."
+  },
+  {
+    "id": 350,
+    "day": "350",
+    "text": "O Espírito e a esposa dizem: Vem!",
+    "reference": "Apocalipse 22:17",
+    "categories": [
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "espirito-santo"
+    ],
+    "explanation": "Recorda que o Espírito Santo consola, fortalece e guia os que confiam em Deus."
+  },
+  {
+    "id": 351,
+    "day": "351",
+    "text": "O Senhor é a minha força e o meu cântico",
+    "reference": "Êxodo 15:2",
+    "categories": [
+      "Salvação/Vida Eterna"
+    ],
+    "categorySlugs": [
+      "salvacaovida-eterna"
+    ],
+    "explanation": "Aponta para a salvação em Jesus, que garante vida eterna e esperança."
+  },
+  {
+    "id": 352,
+    "day": "352",
+    "text": "O Senhor é bom, a sua misericórdia dura para sempre, e a sua verdade de geração em geração",
+    "reference": "Salmos 100:5",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 353,
+    "day": "353",
+    "text": "Rendei graças ao Senhor, porque ele é bom",
+    "reference": "1 Crônicas 16:34",
+    "categories": [
+      "Graça"
+    ],
+    "categorySlugs": [
+      "graca"
+    ],
+    "explanation": "Explica que a salvação é um presente gratuito de Deus, dado por amor e não por merecimento."
+  },
+  {
+    "id": 354,
+    "day": "354",
+    "text": "Os céus declaram a glória de Deus, e o firmamento anuncia a obra das suas mãos",
+    "reference": "Salmos 19:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  },
+  {
+    "id": 355,
+    "day": "355",
+    "text": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios",
+    "reference": "Salmos 1:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 356,
+    "day": "356",
+    "text": "A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo sejam com todos vós",
+    "reference": "2 Coríntios 13:13",
+    "categories": [
+      "Amor",
+      "Graça",
+      "Espírito Santo"
+    ],
+    "categorySlugs": [
+      "amor",
+      "graca",
+      "espirito-santo"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 357,
+    "day": "357",
+    "text": "Bem-aventurados os misericordiosos, porque alcançarão misericórdia",
+    "reference": "Mateus 5:7",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 358,
+    "day": "358",
+    "text": "Bem-aventurados os que têm fome e sede de justiça, porque serão fartos",
+    "reference": "Mateus 5:6",
+    "categories": [
+      "Alimento",
+      "Justiça"
+    ],
+    "categorySlugs": [
+      "alimento",
+      "justica"
+    ],
+    "explanation": "Recorda que Deus é justo e chama cada um a viver com retidão e verdade."
+  },
+  {
+    "id": 359,
+    "day": "359",
+    "text": "Sede vós, pois, perfeitos, como é perfeito o vosso Pai que está nos céus",
+    "reference": "Mateus 5:48",
+    "categories": [
+      "Alimento"
+    ],
+    "categorySlugs": [
+      "alimento"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 360,
+    "day": "360",
+    "text": "Vigiai e orai, para que não entreis em tentação",
+    "reference": "Mateus 26:41",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 361,
+    "day": "361",
+    "text": "Porque, onde está o teu tesouro, aí estará também o teu coração",
+    "reference": "Lucas 12:34",
+    "categories": [
+      "Oração"
+    ],
+    "categorySlugs": [
+      "oracao"
+    ],
+    "explanation": "Convida a falar com Deus em oração, confiando que Ele escuta e responde com cuidado."
+  },
+  {
+    "id": 362,
+    "day": "362",
+    "text": "Convém que ele cresça e que eu diminua",
+    "reference": "João 3:30",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 363,
+    "day": "363",
+    "text": "Nisto conhecemos o amor: que Cristo deu a sua vida por nós",
+    "reference": "1 João 3:16",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "Lembra que Jesus é o caminho para Deus e a vida eterna, trazendo luz e esperança ao coração."
+  },
+  {
+    "id": 364,
+    "day": "364",
+    "text": "O Senhor é quem te guarda",
+    "reference": "Salmos 121:5",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Encoraja a ter fé e esperança em Deus, lembrando que Ele nunca abandona os seus filhos."
+  },
+  {
+    "id": 365,
+    "day": "365",
+    "text": "Guarda-me, ó Deus, porque em ti confio",
+    "reference": "Salmos 16:1",
+    "categories": [
+      "Fé/Esperança"
+    ],
+    "categorySlugs": [
+      "feesperanca"
+    ],
+    "explanation": "Mostra que Deus é poderoso, fiel e cuida de cada detalhe da nossa vida."
+  }
+]
