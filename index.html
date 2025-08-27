@@ -115,6 +115,7 @@
 </footer>
 
 
+
 <script>
 function diaDoAno(data) {
   const inicio = new Date(data.getFullYear(), 0, 0);
@@ -128,10 +129,23 @@ async function loadVerse() {
     const hoje = new Date();
     const numeroDia = diaDoAno(hoje); // 1 a 365
     const arquivo = String(numeroDia).padStart(3, '0');
+
+    // Formatar data (dd/mm/aaaa)
+    const dia = String(hoje.getDate()).padStart(2, '0');
+    const mes = String(hoje.getMonth() + 1).padStart(2, '0');
+    const ano = hoje.getFullYear();
+    const dataFormatada = `${dia}/${mes}/${ano}`;
+
+    // Carregar versículo
     const resp = await fetch(`versiculos/versiculo_${arquivo}.html`);
     if (!resp.ok) throw new Error("Erro no carregamento");
     const conteudo = await resp.text();
-    document.getElementById('verse-container').innerHTML = conteudo;
+
+    // Exibir título + conteúdo
+    document.getElementById('verse-container').innerHTML = `
+      <h1>Versículo do Dia – ${dataFormatada}</h1>
+      ${conteudo}
+    `;
   } catch(e) {
     document.getElementById('verse-container').innerText = 'Erro ao carregar o versículo do dia.';
   }
@@ -140,4 +154,5 @@ loadVerse();
 </script>
 </body>
 </html>
+
 
