@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Categoria: Oração</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {background: linear-gradient(180deg, #e3f2fd, #bbdefb);color: #0d47a1;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    .navbar {background: linear-gradient(90deg, #1976d2, #42a5f5);}
+    .navbar-brand, .navbar-nav .nav-link {color: white !important;font-weight: 600;}
+    .navbar-nav .nav-link:hover {color: #bbdefb !important;}
+    .verse-box {background: white;padding: 30px;border-radius: 16px;margin: 20px auto;box-shadow: 0 6px 16px rgba(0,0,0,0.15);max-width: 900px;}
+
+    .verse-text {font-size: 1.9rem; font-weight: 700; color: #0d47a1; line-height: 1.35; margin-bottom: 6px;}
+    .verse-ref {font-size: 0.95rem; color: #000; font-weight: 700; margin-bottom: 10px;}
+    .verse-exp {font-size: 1rem; color: #444;}
+
+    footer {background: #1976d2;color: white;padding: 20px;margin-top: 40px;}
+    .error-box {background: #ffcdd2; color: #b71c1c; padding: 15px; border-radius: 8px; margin: 20px 0;}
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand" href="/">Versículo do Dia</a>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="/categorias/feesperanca.html">Fé/Esperança</a></li>
+        <li class="nav-item"><a class="nav-link active" href="/categorias/oracao.html">Oração</a></li>
+        <li class="nav-item"><a class="nav-link" href="/categorias/amor.html">Amor</a></li>
+        <li class="nav-item"><a class="nav-link" href="/categorias/paz.html">Paz</a></li>
+        <li class="nav-item"><a class="nav-link" href="/categorias/palavra-de-deus.html">Palavra de Deus</a></li>
+        <li class="nav-item"><a class="nav-link" href="/sobre.html">Sobre</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<main class="container">
+  <h1 class="text-center my-4">Categoria: Oração</h1>
+  <div id="verses-list">Carregando...</div>
+</main>
+
+<footer class="text-center">
+  <p class="mb-0">© 2025 versiculododia.net</p>
+</footer>
+
+<script>
+function stripHtml(input) {
+  return (input || '').replace(/<[^>]*>/g, '').trim();
+}
+
+function removeEmbeddedReference(text, reference) {
+  if (!text || !reference) return text || '';
+  const escaped = reference.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(escaped, 'gi');
+  return text.replace(re, '').replace(/[\s\-–—,:;]+$/g, '').trim();
+}
+
+async function loadCategory(category) {
+  try {
+    const response = await fetch("../data/verses.json");
+    if (!response.ok) {
+      throw new Error("Falha no fetch: " + response.status + " " + response.statusText);
+    }
+
+    const verses = await response.json();
+    console.log("Total de versículos carregados:", verses.length);
+
+    const filtered = verses.filter(v => v.categories && v.categories.includes(category));
+    console.log("Filtrados:", filtered.length);
+
+    if (filtered.length === 0) {
+      document.getElementById("verses-list").innerHTML =
+        `<div class="error-box">Nenhum versículo encontrado para a categoria: ${category}</div>`;
+      return;
+    }
+
+    let html = "";
+    filtered.forEach(v => {
+      const cleanText = removeEmbeddedReference(stripHtml(v.text), v.reference || "");
+      html += `
+        <div class="verse-box">
+          <div class="verse-text">${cleanText}</div>
+          <div class="verse-ref"><strong>${v.reference || "(referência ausente)"}</strong></div>
+          <p class="verse-exp">${v.explanation || ""}</p>
+        </div>`;
+    });
+
+    document.getElementById("verses-list").innerHTML = html;
+
+  } catch (e) {
+    console.error("Erro ao carregar:", e);
+    document.getElementById("verses-list").innerHTML =
+      `<div class="error-box">Erro ao carregar versículos: ${e.message}</div>`;
+  }
+}
+
+loadCategory("Oração");
+</script>
+
+</body>
+</html>
