@@ -12,12 +12,12 @@
     .navbar-nav .nav-link:hover {color: #bbdefb !important;}
     .verse-box {background: white;padding: 30px;border-radius: 16px;margin: 20px auto;box-shadow: 0 6px 16px rgba(0,0,0,0.15);max-width: 900px;}
 
-    /* Estilos desejados */
     .verse-text {font-size: 1.9rem; font-weight: 700; color: #0d47a1; line-height: 1.35; margin-bottom: 6px;}
     .verse-ref {font-size: 0.95rem; color: #000; font-weight: 700; margin-bottom: 10px;}
     .verse-exp {font-size: 1rem; color: #444;}
 
     footer {background: #1976d2;color: white;padding: 20px;margin-top: 40px;}
+    .error-box {background: #ffcdd2; color: #b71c1c; padding: 15px; border-radius: 8px; margin: 20px 0;}
   </style>
 </head>
 <body>
@@ -25,10 +25,6 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container">
     <a class="navbar-brand" href="/">Versículo do Dia</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-      aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegação">
-      <span class="navbar-toggler-icon"></span>
-    </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
@@ -67,25 +63,39 @@ function removeEmbeddedReference(text, reference) {
 async function loadCategory(category) {
   try {
     const response = await fetch("../data/verses.json");
+    if (!response.ok) {
+      throw new Error("Falha no fetch: " + response.status + " " + response.statusText);
+    }
+
     const verses = await response.json();
+    console.log("Total de versículos carregados:", verses.length);
 
-    const filtered = verses.filter(v => v.categories.includes(category));
+    const filtered = verses.filter(v => v.categories && v.categories.includes(category));
+    console.log("Filtrados:", filtered.length);
+
+    if (filtered.length === 0) {
+      document.getElementById("verses-list").innerHTML =
+        `<div class="error-box">Nenhum versículo encontrado para a categoria: ${category}</div>`;
+      return;
+    }
+
     let html = "";
-
     filtered.forEach(v => {
-      const cleanText = removeEmbeddedReference(stripHtml(v.text), v.reference);
-
+      const cleanText = removeEmbeddedReference(stripHtml(v.text), v.reference || "");
       html += `
         <div class="verse-box">
           <div class="verse-text">${cleanText}</div>
-          <div class="verse-ref"><strong>${v.reference}</strong></div>
-          <p class="verse-exp">${v.explanation}</p>
+          <div class="verse-ref"><strong>${v.reference || "(referência ausente)"}</strong></div>
+          <p class="verse-exp">${v.explanation || ""}</p>
         </div>`;
     });
 
-    document.getElementById("verses-list").innerHTML = html || "<p>Nenhum versículo encontrado.</p>";
+    document.getElementById("verses-list").innerHTML = html;
+
   } catch (e) {
-    document.getElementById("verses-list").innerText = "Erro ao carregar versículos.";
+    console.error("Erro ao carregar:", e);
+    document.getElementById("verses-list").innerHTML =
+      `<div class="error-box">Erro ao carregar versículos: ${e.message}</div>`;
   }
 }
 
